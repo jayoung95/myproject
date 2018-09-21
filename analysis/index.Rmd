@@ -7,3 +7,8 @@ output:
 ---
 
 Welcome to my research website.
+
+[my first analysis](test_analysis.html)
+
+#wflow_publish("analysis/index.rmd","add first analysis to index")
+#wflow_git_push()
